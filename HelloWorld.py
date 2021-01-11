@@ -10,3 +10,4 @@ class Book():
 harryPotter = Book(400, "J.K. Rowling")
 
 print(harryPotter.pages)
+print(harryPotter.author)
